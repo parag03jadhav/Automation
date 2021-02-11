@@ -1,0 +1,8 @@
+20:15:47.429 [main] INFO  com.pj.Log4j.FirstLog4j.AppTest - Info
+20:15:47.439 [main] ERROR com.pj.Log4j.FirstLog4j.AppTest - error
+20:15:47.440 [main] FATAL com.pj.Log4j.FirstLog4j.AppTest - Fatal
+20:15:47.440 [main] DEBUG com.pj.Log4j.FirstLog4j.AppTest - debug
+20:15:47.440 [main] WARN  com.pj.Log4j.FirstLog4j.AppTest - warn
+20:16:14.531 [main] INFO  com.pj.Log4j.FirstLog4j.AppTest - Info
+20:16:14.540 [main] ERROR com.pj.Log4j.FirstLog4j.AppTest - error
+20:16:14.540 [main] FATAL com.pj.Log4j.FirstLog4j.AppTest - Fatal

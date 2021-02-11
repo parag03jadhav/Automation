@@ -1,0 +1,2 @@
+20:16:14.540 [main] DEBUG com.pj.Log4j.FirstLog4j.AppTest - debug
+20:16:14.611 [main] WARN  com.pj.Log4j.FirstLog4j.AppTest - warn
