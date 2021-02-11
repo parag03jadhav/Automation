@@ -16,6 +16,7 @@ public class AppTest
 		l.fatal("Fatal");
 		l.debug("debug");
 	    l.warn("warn");
+	    System.out.println("Git msg");
 	
 	}
    
